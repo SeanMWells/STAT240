@@ -1,0 +1,8 @@
+unnamed-chunk-1	!=	%>%	dim	episode	filter	read_csv	scene	select	speaker	utterance
+unnamed-chunk-2	%>%	arrange	count	desc	head	n	speaker	speakers
+unnamed-chunk-3	$	head	speaker_count
+unnamed-chunk-4	%>%	~	arrange	case_when	count	desc	friends	main_characters	mutate	n	p	paste	sum
+unnamed-chunk-5	%>%	~	aes	count	facet_wrap	filter	geom_col	ggplot	labs	main_character_str	n	scale_x_discrete	season	speaker	speakers	str_detect
+unnamed-chunk-6	%>%	contains	filter	friends	head	main_characters	mutate	season	select	speaker	str_count	text
+unnamed-chunk-7	
+unnamed-chunk-8	

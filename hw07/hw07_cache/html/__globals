@@ -1,0 +1,14 @@
+unnamed-chunk-1	[[	%>%	length	pluck	read_json
+unnamed-chunk-2	%>%	countries	length	map_int	max	min	n	slice	summarize	tibble
+unnamed-chunk-3	%>%	countries	names	pluck
+unnamed-chunk-4	%>%	countries	pluck
+unnamed-chunk-5	.	%>%	countries	map_chr	pluck	tibble
+unnamed-chunk-6	%>%	countries	pluck
+unnamed-chunk-7	%>%	countries	length	pluck
+unnamed-chunk-8	.	%>%	countries	head	length	map	map_chr	map_int	pluck	tibble
+unnamed-chunk-9	%>%	>	countries_df	filter	num_captitals
+unnamed-chunk-10	.	%>%	~	countries	head	length	map	map_chr	map_int	pluck	tibble
+unnamed-chunk-11	%>%	==	|	~	capitals	case_when	countries_df	filter	mutate	num_captitals	print
+unnamed-chunk-12	.	%>%	~	countries	head	length	map	map_chr	map_int	map_lgl	pluck	tibble
+unnamed-chunk-13	%>%	arrange	count	countries_df	desc	filter	group_by	n	region	subregion	un_member
+unnamed-chunk-14	%>%	~	aes	countries_df	facet_wrap	geom_bar	ggplot	ggtitle	labs	num_languages	region	select
